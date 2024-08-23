@@ -1,2 +1,2 @@
 # frontend_javaScript
-Concepts and Questions of javaScript
+Concepts of javaScript
